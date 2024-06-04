@@ -1,0 +1,38 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>icons/pause_button.svg</file>
+    <file>icons/play_button.svg</file>
+    <file>icons/settings_button.svg</file>
+    <file>icons/stop_button.svg</file>
+    <file>icons/stop_button_1.svg</file>
+
+    <file>programmerdevice/devicewidget/back.png</file>
+    <file>programmerdevice/devicewidget/back1.png</file>
+    <file>programmerdevice/devicewidget/settings.png</file>
+    <file>programmerdevice/devicewidget/gear.svg</file>
+    <file>programmerdevice/devicewidget/gear-alt.svg</file>
+    <file>programmerdevice/devicewidget/sun-alt.svg</file>
+    
+    <file>programmerdevice/interval/dots-horizontal.svg</file>
+    <file>programmerdevice/interval/dots-horizontal-alt.svg</file>
+
+    <file>programmerdevice/interval/menu/arrow-circle-left.svg</file>
+    <file>programmerdevice/interval/menu/arrow-circle-right.svg</file>
+    <file>programmerdevice/interval/menu/corner-left-down.svg</file>
+    <file>programmerdevice/interval/menu/corner-right-down.svg</file>
+    <file>programmerdevice/interval/menu/trash-alt.svg</file>
+    <file>programmerdevice/interval/menu/trash-xmark-alt.svg</file>
+    <file>programmerdevice/interval/menu/trash-xmark.svg</file>
+    <file>programmerdevice/interval/menu/trash.svg</file>
+    <file>programmerdevice/interval/menu/xmark-large.svg</file>
+    <file>programmerdevice/interval/menu/xmark.svg</file>
+    
+    <file>icons/icons8-back-arrow-96.png</file>
+    <file>icons/icons8-fast-forward-round-96.png</file>
+    <file>icons/icons8-forward-button-96.png</file>
+    <file>icons/icons8-pause-button-96.png</file>
+    <file>icons/icons8-play-button-circled-96.png</file>
+    <file>icons/icons8-rewind-button-round-96.png</file>
+    <file>icons/icons8-stop-circled-96.png</file>
+</qresource>
+</RCC>
